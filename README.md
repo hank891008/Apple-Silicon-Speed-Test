@@ -1,4 +1,4 @@
-# Apple-Silicon-Speedtest
+# Apple-Silicon-SpeedTest
 
 對Apple晶片GPU對於深度學習的測試，詳細分析請參考本篇實驗
 
