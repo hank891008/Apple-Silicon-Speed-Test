@@ -1,4 +1,4 @@
-# Apple-Silicon-SpeedTest
+# Apple-Silicon-Speed-Test
 
 對Apple晶片GPU對於Pytorch GPU的測試，詳細分析請參考本篇實驗
 
